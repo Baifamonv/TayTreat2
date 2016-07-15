@@ -1,0 +1,109 @@
+body,html{
+	direction: rtl;
+	unicode-bidi: embed;	
+}
+
+caption, th, td {
+	text-align: right;
+}
+
+footer .social-icons i{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+
+p{
+	text-align: right;
+}
+
+ul li,
+ol li{
+	text-align: right;
+}
+
+ul li:before{
+	float: right;
+	padding-right: 0px;
+	padding-left: 10px;
+	margin-right: 0px;
+}
+
+
+.blog-thumbs .post-info,
+.blog-thumbs .post-text h3{
+	text-align: right;
+}
+
+.blog-thumbs .post-thumb{
+	float: right;
+	margin-right: 0px;
+	margin-left: 20px;
+}
+
+.pages-right{
+	text-align: left;
+}
+.pages-left{
+	text-align: right;
+}
+
+.footer-widgets{
+	margin-right: -70px;
+	margin-left: 0px;
+}
+
+.widget ul li,
+.widget ul li a{
+	text-align: right;
+}
+
+
+.widget_categories ul li a:before,
+.widget_archive ul li a:before,
+.widget_meta ul li a:before,
+.blogroll li a:before,
+.widget_pages li a:before,
+.widget_recent_entries ul li a:before,
+.widget_nav_menu  li a:before{
+	float: right;
+	padding-right: 0px;
+	padding-left: 10px;
+}
+
+.tags{
+	text-align: right;
+	
+}
+
+.tags i.fa-tags{
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
+.sharing{
+	text-align: right;
+}
+
+.comments-title span{
+	float: right;
+}
+
+.comment-edit-link{
+	display: inline-block;
+}
+
+.comments .avatar{
+	float: right;
+	margin-left: 20px;
+	margin-right: 0px;
+}
+
+.commentlist li .children{
+	padding-left: 0%;
+	padding-right: 5%;
+}
+
+.comment-reply-link{
+	float: left;
+}

@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Four Seasons\n"
+"POT-Creation-Date: 2016-06-27 15:41+0100\n"
+"PO-Revision-Date: 2016-06-27 15:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: divpusher.com\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:25
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: ../404.php:26
+msgid "Sorry!"
+msgstr ""
+
+#: ../404.php:26
+msgid ""
+"The page you're looking for is not available!<br />Maybe you want to try a "
+"search?"
+msgstr ""
+
+#: ../comments.php:16
+msgid "COMMENTS"
+msgstr ""
+
+#: ../comments.php:32
+msgid "PREVIOUS"
+msgstr ""
+
+#: ../comments.php:33
+msgid "NEXT"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Thank you for submitting your comment!"
+msgstr ""
+
+#: ../comments.php:50
+msgid "LEAVE A REPLY "
+msgstr ""
+
+#: ../comments.php:54
+msgid "SUBMIT"
+msgstr ""
+
+#: ../comments.php:56
+msgid "NAME:"
+msgstr ""
+
+#: ../comments.php:57
+msgid "EMAIL:"
+msgstr ""
+
+#: ../content-blog-full.php:20 ../content-blog.php:26 ../content-single.php:21
+msgid "sticky post"
+msgstr ""
+
+#: ../content-blog-full.php:29 ../content-blog.php:35
+#: ../content-portfolio.php:23 ../content-single.php:30
+msgid ", "
+msgstr ""
+
+#: ../content-blog-full.php:41 ../content-blog.php:47
+#: ../content-portfolio.php:17 ../content-single.php:42
+msgid "Untitled"
+msgstr ""
+
+#: ../content-blog-full.php:54 ../content-single.php:52 ../page.php:29
+msgid "<strong>Pages:</strong>"
+msgstr ""
+
+#: ../content-blog.php:54
+msgid "Continue &rharu;"
+msgstr ""
+
+#: ../footer.php:87
+msgid "BEHANCE"
+msgstr ""
+
+#: ../footer.php:88
+msgid "DRIBBBLE"
+msgstr ""
+
+#: ../footer.php:89
+msgid "FACEBOOK"
+msgstr ""
+
+#: ../footer.php:90
+msgid "GOOGLE+"
+msgstr ""
+
+#: ../footer.php:91
+msgid "INSTAGRAM"
+msgstr ""
+
+#: ../footer.php:92
+msgid "LINKEDIN"
+msgstr ""
+
+#: ../footer.php:93
+msgid "PINTEREST"
+msgstr ""
+
+#: ../footer.php:94
+msgid "RSS"
+msgstr ""
+
+#: ../footer.php:95
+msgid "TWITTER"
+msgstr ""
+
+#: ../footer.php:102
+msgid ""
+"A WORDPRESSS THEME FROM <a href=\"http://divpusher.com\" target=\"_blank"
+"\">DIVPUSHER.COM</a>"
+msgstr ""
+
+#: ../footer.php:126
+msgid "loading"
+msgstr ""
+
+#: ../functions.php:27
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:213
+msgid "Archives Sidebar"
+msgstr ""
+
+#: ../functions.php:215
+msgid "Sidebar for all Archives, Categories, Tags pages."
+msgstr ""
+
+#: ../functions.php:224
+msgid "Search & 404 Sidebar"
+msgstr ""
+
+#: ../functions.php:226
+msgid "Sidebar for Search & 404 pages"
+msgstr ""
+
+#: ../functions.php:235
+msgid "Widget Area #1"
+msgstr ""
+
+#: ../functions.php:237 ../functions.php:248 ../functions.php:259
+#: ../functions.php:270 ../functions.php:281 ../functions.php:292
+#: ../functions.php:303 ../functions.php:314 ../functions.php:325
+#: ../functions.php:336
+msgid "Widget area for sidebar or footer"
+msgstr ""
+
+#: ../functions.php:246
+msgid "Widget Area #2"
+msgstr ""
+
+#: ../functions.php:257
+msgid "Widget Area #3"
+msgstr ""
+
+#: ../functions.php:268
+msgid "Widget Area #4"
+msgstr ""
+
+#: ../functions.php:279
+msgid "Widget Area #5"
+msgstr ""
+
+#: ../functions.php:290
+msgid "Widget Area #6"
+msgstr ""
+
+#: ../functions.php:301
+msgid "Widget Area #7"
+msgstr ""
+
+#: ../functions.php:312
+msgid "Widget Area #8"
+msgstr ""
+
+#: ../functions.php:323
+msgid "Widget Area #9"
+msgstr ""
+
+#: ../functions.php:334
+msgid "Widget Area #10"
+msgstr ""
+
+#: ../functions.php:390
+#, php-format
+msgid "%1$s., %2$s"
+msgstr ""
+
+#: ../functions.php:391
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:398
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:477
+msgid "Season Layouts"
+msgstr ""
+
+#: ../functions.php:479
+msgid "Select a layout for your website!"
+msgstr ""
+
+#: ../functions.php:513
+msgid "Link Color"
+msgstr ""
+
+#: ../functions.php:524
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../functions.php:536
+msgid "Main Text Color"
+msgstr ""
+
+#: ../functions.php:545
+msgid "Sidebar & Footer"
+msgstr ""
+
+#: ../functions.php:557
+msgid "Default sidebar position"
+msgstr ""
+
+#: ../functions.php:561
+msgid "Right"
+msgstr ""
+
+#: ../functions.php:562
+msgid "Left"
+msgstr ""
+
+#: ../functions.php:579
+msgid "Footer icons - Behance"
+msgstr ""
+
+#: ../functions.php:586
+msgid "Footer icons - Dribbble"
+msgstr ""
+
+#: ../functions.php:593
+msgid "Footer icons - Facebook"
+msgstr ""
+
+#: ../functions.php:600
+msgid "Footer icons - Google+"
+msgstr ""
+
+#: ../functions.php:607
+msgid "Footer icons - Instagram"
+msgstr ""
+
+#: ../functions.php:614
+msgid "Footer icons - LinkedIN"
+msgstr ""
+
+#: ../functions.php:621
+msgid "Footer icons - Pinterest"
+msgstr ""
+
+#: ../functions.php:628
+msgid "Footer icons - RSS"
+msgstr ""
+
+#: ../functions.php:635
+msgid "Footer icons - Twitter"
+msgstr ""
+
+#: ../functions.php:670
+msgid ""
+"Here you can select which post categories you'd like to display on this page."
+msgstr ""
+
+#: ../functions.php:673 ../functions.php:686
+msgid "All categories"
+msgstr ""
+
+#: ../functions.php:760
+msgid "Here you can select widget areas that should appear on this page."
+msgstr ""
+
+#: ../functions.php:763
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:774
+msgid "Footer"
+msgstr ""
+
+#: ../header.php:18
+msgid ""
+"This website requires JavaScript!</strong> Please enable JavaScript in your "
+"browser and reload the page!"
+msgstr ""
+
+#: ../header.php:22
+msgid "warning icon"
+msgstr ""
+
+#: ../header.php:22
+msgid ""
+"<strong>YOUR BROWSER IS OUT OF DATE!</strong><br /><br />This website uses "
+"the latest web technologies so it requires an up-to-date, fast browser!<br /"
+">Please try <a href=\"http://www.mozilla.org/en-US/firefox/new/?"
+"from=getfirefox\">Firefox</a> or <a href=\"https://www.google.com/chrome"
+"\">Chrome</a>!"
+msgstr ""
+
+#: ../index.php:48 ../template-blog-full.php:98
+#: ../template-blog-thumbs.php:117
+msgid "&lharu; Previous Page "
+msgstr ""
+
+#: ../index.php:52 ../template-blog-full.php:102
+#: ../template-blog-thumbs.php:121
+#, php-format
+msgid "PAGE %d OF %d"
+msgstr ""
+
+#: ../index.php:56 ../template-blog-full.php:106
+#: ../template-blog-thumbs.php:125
+msgid "Next Page &rharu;"
+msgstr ""
+
+#: ../searchform.php:7
+msgid "SEARCH"
+msgstr ""
+
+#: ../single.php:41
+msgid "Tags: "
+msgstr ""
+
+#: ../template-portfolio.php:78 ../template-portfolio.php:80
+msgid "SHOW ALL"
+msgstr ""

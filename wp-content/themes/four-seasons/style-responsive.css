@@ -1,0 +1,300 @@
+@media only screen and (max-width: 1170px) { 
+
+	body{
+		background-image: none;
+	}
+
+	#page-shadow{
+		display: none;
+	}
+
+
+	#page{
+		box-sizing: border-box;
+		width: 100%;
+		background-image: none;
+		margin-top: 0px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+
+	footer{
+		width: 100%;
+		box-sizing: border-box;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+
+
+	.desktop-res{
+		display: none;
+	}
+
+	.responsive-res{
+		display: block;
+	}
+
+	#responsive-menu{
+		cursor: pointer;
+		margin-top: 30px;
+		display: inline-block;		
+	}
+	
+
+	#responsive-menu i{
+		border: 2px solid #333;
+		border-radius: 50%;
+		width: 50px;
+		height: 50px;	
+		line-height: 50px;	
+		vertical-align: middle;
+		font-size: 24px;
+	}
+
+	
+	#respo-menu-holder{
+		width: 100%;				
+		position: absolute;		
+		left: 0px;
+		z-index: 999;
+		display: none;			
+		background-color: #fff;		
+		background-repeat: no-repeat;
+		background-position: top center;	
+		box-shadow: 0 4px 2px -2px rgba(182, 182, 182, 0.40);		
+		border-top: 1px solid #E2E2E2;
+	}
+	
+	#respo-menu-holder li{
+		border-bottom: 1px solid #E2E2E2;
+		text-align: center;
+		clear: both;
+		display: block;
+	}
+	
+	#respo-menu-holder li a{
+		display: block;
+		line-height: 50px;
+		font-weight: bold;
+		font-weight: 600;
+		padding-left: 15px;
+		padding-right: 15px;
+		color: #333;
+	}
+	
+	#respo-menu-holder .sub-menu li a{
+		line-height: 40px;
+	}
+	
+	#respo-menu-holder .menu{
+		border-bottom: 0px;
+	}
+	
+	#respo-menu-holder .menu-responsive > li:hover > a,
+	#respo-menu-holder .sub-menu li:hover a{
+		background-color: #fafafa;
+	}
+	
+	#respo-menu-holder .sub-menu li{
+		border-bottom: 0px;
+	}
+	
+	#respo-menu-holder .sub-menu a{
+		font-size: 14px;
+	}
+	
+	
+	
+	
+	.logo img{
+		max-width: 100%;
+	}
+
+	header.header{
+		border-bottom: 1px solid #e5e5e5;
+		margin-bottom: 70px;
+	}
+
+	.header nav {
+		margin-bottom: 40px;
+	}
+
+
+
+
+
+	.content.with-sidebar{
+		width: 65%;		
+	}
+
+	.sidebar{
+		margin-left: 5%;
+		width: 30%;
+	}
+
+	.sidebar.left{
+		margin-right: 5%;
+	}
+
+	
+	.comment-respond input{
+		float: left;
+	}
+	
+	.comment-respond .comment-form-author, 
+	.comment-respond .comment-form-email{
+		width: 100%;
+	}
+	
+	
+	.portfolio-item .post-thumb{
+		height: 150px;
+		
+	}
+	
+	
+	body.season-spring .deco-spring .flower{		
+		width: 280px;
+	}
+	
+	
+	body.season-summer .deco-summer .palm{
+		left: -250px;
+	}
+	
+	body.season-winter .deco-winter .page-top{
+		display: none;
+	}
+	
+	body.season-winter .deco-winter .pine{
+		right: -80px;
+		width: 270px;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 768px) { 
+	.content.with-sidebar{
+		width: 100%;		
+		margin: 0px;
+		margin-bottom: 70px;
+	}
+	
+	.sidebar{
+		clear: both;
+		width: 100%;		
+		margin: 0px;
+	}
+	
+	.sidebar.left{
+		margin: 0px;
+	}
+	
+	
+	footer .social-icons li i.fa{
+		width: 100%;
+	}
+	
+	
+}
+
+
+
+
+@media only screen and (max-width: 640px) { 
+	
+	.one-third,
+	.two-third,
+	.one-fourth,
+	.three-fourth,
+	.one-fifth{
+		width: 100%;
+		margin-right: 0px;
+		clear: both;
+	}
+
+	
+	.blog-thumbs .post-thumb{
+		float: none;
+		margin: 0px auto;
+		margin-bottom: 30px;
+	}
+	
+	.blog-thumbs .post-text,
+	.blog-thumbs .post-text h3{
+		text-align: center;
+	}
+	
+	
+	.gallery-columns-4 .gallery-item,
+	.gallery-columns-5 .gallery-item,
+	.gallery-columns-6 .gallery-item,
+	.gallery-columns-7 .gallery-item,
+	.gallery-columns-8 .gallery-item,
+	.gallery-columns-9 .gallery-item{
+		width: 33%;		
+	}
+	
+	.gallery-columns-2 .gallery-item:nth-child(2n+1){
+		clear: both;
+	}
+	
+	.gallery br{
+		display: none;
+		clear: none !important;
+	}
+	
+	.gallery {
+		width: 100%;
+		clear: both;		
+		display: inline-block;
+	}
+	
+	
+	
+	
+	.portfolio-item{
+		clear: both;
+		margin-bottom: 50px;
+	}
+	
+	.portfolio-item .post-thumb{
+		height: 200px;
+	}
+	
+	
+	
+	
+
+	footer .social-icons{
+		padding-bottom: 15px;
+	}
+	
+	
+	footer .social-icons li{
+		width: 33%;		
+		display: inline-block;
+		margin-bottom: 10px;
+	}
+	
+	body.season-spring .deco-spring .flower{		
+		width: 200px;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 480px) { 
+	
+	.one-half{		
+		width: 100%;
+		margin-right: 0px;		
+		clear: both;
+	}
+	
+}

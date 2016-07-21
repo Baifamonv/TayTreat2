@@ -9,8 +9,9 @@
 ?>
 		<div class="clearboth"></div>
 	</div><!-- #content -->
-	    
+
 	<?php get_template_part( '/templates/footers/footer-social' ); ?>
+	    <p align="center" >Powered By Jane @2016</p>
 	
 </div><!-- #page -->
 
